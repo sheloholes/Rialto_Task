@@ -76,7 +76,7 @@ body{
     
 }
 i{
-    color: rgb(53, 147, 255);
+    color: rgb(68, 79, 92);
 
 }
 #sn{
@@ -198,8 +198,8 @@ i{
     display: flex;
     flex-direction: column;
 }
-.movie span:nth-of-type(2){
-    color: rgb(49, 51, 53);
+.movie span:nth-of-type(3){
+    color: rgb(68, 79, 92);
 }
 .movie img{
     border-radius: 10px;
