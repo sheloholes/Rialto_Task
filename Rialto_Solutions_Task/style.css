@@ -25,7 +25,7 @@ footer, header, hgroup, menu, nav, section {
 
 body{
     height: 100vh;
-    background: rgb(19, 13, 38);
+    background: rgb(30, 0, 70);
     color: white;
 
     /* filter: blur(50px); */
@@ -76,7 +76,8 @@ body{
     
 }
 i{
-    color: white;
+    color: rgb(53, 147, 255);
+
 }
 #sn{
     /* display: inline; */
