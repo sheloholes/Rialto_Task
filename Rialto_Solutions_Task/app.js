@@ -1,6 +1,18 @@
-var input=document.querySelector('#sbw span input[placeholder]')
-console.log(input["placeholder"]);
-// input.addEventListener("key",()=>{
-//     console.log(input.value);
-// })
-input["placeholder"].document.style.color="red"
+var movie=document.querySelectorAll(".movie")
+// console.log(movie.length);
+for(let i=0;i<8;i++){
+    movie[i].addEventListener("click",()=>{
+        alert(`${movie[i].children[1].textContent}`);
+    })
+}
+
+
+
+
+
+
+
+
+
+
+
